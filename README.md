@@ -1,7 +1,5 @@
 # Game-Search---Server-Side
 
-Developed by Hen Zalah and Hadas Israeli
-
 A project on client-server comunication.
 
 In this repository there is the code to the server side.
